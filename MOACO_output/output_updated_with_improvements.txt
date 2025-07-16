@@ -1,0 +1,2572 @@
+
+Running MOACO for station 0...
+Station 0 - Iteration 1: Best Time = 210.10, Best Cost = 5494.63
+Station 0 - Archive size: 4
+Station 0 - Iteration 2: Best Time = 208.80, Best Cost = 4751.95
+Station 0 - Archive size: 4
+Station 0 - Iteration 3: Best Time = 205.70, Best Cost = 4751.95
+Station 0 - Archive size: 11
+Station 0 - Iteration 4: Best Time = 205.70, Best Cost = 4751.95
+Station 0 - Archive size: 29
+Station 0 - Iteration 5: Best Time = 205.70, Best Cost = 4751.95
+Station 0 - Archive size: 48
+Station 0 - Iteration 6: Best Time = 205.70, Best Cost = 4751.95
+Station 0 - Archive size: 68
+Station 0 - Iteration 7: Best Time = 205.70, Best Cost = 4751.95
+Station 0 - Archive size: 87
+Station 0 - Iteration 8: Best Time = 205.70, Best Cost = 4751.95
+Station 0 - Archive size: 107
+Station 0 - Iteration 9: Best Time = 205.70, Best Cost = 4751.95
+Station 0 - Archive size: 127
+Station 0 - Iteration 10: Best Time = 205.70, Best Cost = 4751.95
+Station 0 - Archive size: 147
+Station 0 - Iteration 11: Best Time = 205.70, Best Cost = 4751.95
+Station 0 - Archive size: 166
+Station 0 - Iteration 12: Best Time = 205.70, Best Cost = 4751.95
+Station 0 - Archive size: 186
+Station 0 - Iteration 13: Best Time = 205.70, Best Cost = 4751.95
+Station 0 - Archive size: 7
+Station 0 - Iteration 14: Best Time = 205.70, Best Cost = 4751.95
+Station 0 - Archive size: 27
+Station 0 - Iteration 15: Best Time = 205.70, Best Cost = 4751.95
+Station 0 - Archive size: 47
+Station 0 - Iteration 16: Best Time = 205.70, Best Cost = 4751.95
+Station 0 - Archive size: 67
+Station 0 - Iteration 17: Best Time = 205.70, Best Cost = 4751.95
+Station 0 - Archive size: 87
+Station 0 - Iteration 18: Best Time = 205.70, Best Cost = 4751.95
+Station 0 - Archive size: 107
+Station 0 - Iteration 19: Best Time = 205.70, Best Cost = 4751.95
+Station 0 - Archive size: 127
+Station 0 - Iteration 20: Best Time = 205.70, Best Cost = 4751.95
+Station 0 - Archive size: 146
+Station 0 - Iteration 21: Best Time = 205.70, Best Cost = 4751.95
+Station 0 - Archive size: 166
+Station 0 - Iteration 22: Best Time = 205.70, Best Cost = 4751.95
+Station 0 - Archive size: 186
+Station 0 - Iteration 23: Best Time = 205.70, Best Cost = 4751.95
+Station 0 - Archive size: 7
+Station 0 - Iteration 24: Best Time = 205.70, Best Cost = 4751.95
+Station 0 - Archive size: 27
+Station 0 - Iteration 25: Best Time = 205.70, Best Cost = 4751.95
+Station 0 - Archive size: 47
+Station 0 - Iteration 26: Best Time = 205.70, Best Cost = 4751.95
+Station 0 - Archive size: 67
+Station 0 - Iteration 27: Best Time = 205.70, Best Cost = 4751.95
+Station 0 - Archive size: 86
+Station 0 - Iteration 28: Best Time = 205.70, Best Cost = 4751.95
+Station 0 - Archive size: 106
+Station 0 - Iteration 29: Best Time = 205.70, Best Cost = 4751.95
+Station 0 - Archive size: 126
+Station 0 - Iteration 30: Best Time = 205.70, Best Cost = 4751.95
+Station 0 - Archive size: 146
+Station 0 - Iteration 31: Best Time = 205.70, Best Cost = 4751.95
+Station 0 - Archive size: 166
+Station 0 - Iteration 32: Best Time = 205.70, Best Cost = 4751.95
+Station 0 - Archive size: 186
+Station 0 - Iteration 33: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 7
+Station 0 - Iteration 34: Best Time = 205.70, Best Cost = 4751.95
+Station 0 - Archive size: 27
+Station 0 - Iteration 35: Best Time = 205.70, Best Cost = 4751.95
+Station 0 - Archive size: 47
+Station 0 - Iteration 36: Best Time = 205.70, Best Cost = 4751.95
+Station 0 - Archive size: 67
+Station 0 - Iteration 37: Best Time = 205.70, Best Cost = 4751.95
+Station 0 - Archive size: 87
+Station 0 - Iteration 38: Best Time = 205.70, Best Cost = 4751.95
+Station 0 - Archive size: 107
+Station 0 - Iteration 39: Best Time = 205.70, Best Cost = 4751.95
+Station 0 - Archive size: 126
+Station 0 - Iteration 40: Best Time = 205.70, Best Cost = 4751.95
+Station 0 - Archive size: 146
+Station 0 - Iteration 41: Best Time = 205.70, Best Cost = 4751.95
+Station 0 - Archive size: 166
+Station 0 - Iteration 42: Best Time = 205.70, Best Cost = 4751.95
+Station 0 - Archive size: 186
+Station 0 - Iteration 43: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 7
+Station 0 - Iteration 44: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 27
+Station 0 - Iteration 45: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 47
+Station 0 - Iteration 46: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 67
+Station 0 - Iteration 47: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 87
+Station 0 - Iteration 48: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 107
+Station 0 - Iteration 49: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 127
+Station 0 - Iteration 50: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 147
+Station 0 - Iteration 51: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 167
+Station 0 - Iteration 52: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 187
+Station 0 - Iteration 53: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 8
+Station 0 - Iteration 54: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 28
+Station 0 - Iteration 55: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 47
+Station 0 - Iteration 56: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 67
+Station 0 - Iteration 57: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 87
+Station 0 - Iteration 58: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 106
+Station 0 - Iteration 59: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 125
+Station 0 - Iteration 60: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 145
+Station 0 - Iteration 61: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 165
+Station 0 - Iteration 62: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 184
+Station 0 - Iteration 63: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 5
+Station 0 - Iteration 64: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 25
+Station 0 - Iteration 65: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 45
+Station 0 - Iteration 66: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 65
+Station 0 - Iteration 67: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 85
+Station 0 - Iteration 68: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 104
+Station 0 - Iteration 69: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 124
+Station 0 - Iteration 70: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 144
+Station 0 - Iteration 71: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 164
+Station 0 - Iteration 72: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 184
+Station 0 - Iteration 73: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 5
+Station 0 - Iteration 74: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 25
+Station 0 - Iteration 75: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 45
+Station 0 - Iteration 76: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 65
+Station 0 - Iteration 77: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 85
+Station 0 - Iteration 78: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 105
+Station 0 - Iteration 79: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 124
+Station 0 - Iteration 80: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 144
+Station 0 - Iteration 81: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 164
+Station 0 - Iteration 82: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 184
+Station 0 - Iteration 83: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 5
+Station 0 - Iteration 84: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 25
+Station 0 - Iteration 85: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 45
+Station 0 - Iteration 86: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 64
+Station 0 - Iteration 87: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 84
+Station 0 - Iteration 88: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 104
+Station 0 - Iteration 89: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 124
+Station 0 - Iteration 90: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 144
+Station 0 - Iteration 91: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 164
+Station 0 - Iteration 92: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 184
+Station 0 - Iteration 93: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 5
+Station 0 - Iteration 94: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 25
+Station 0 - Iteration 95: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 45
+Station 0 - Iteration 96: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 64
+Station 0 - Iteration 97: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 84
+Station 0 - Iteration 98: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 104
+Station 0 - Iteration 99: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 124
+Station 0 - Iteration 100: Best Time = 205.70, Best Cost = 5159.61
+Station 0 - Archive size: 144
+
+Running MOACO for station 1...
+Station 1 - Iteration 1: Best Time = 224.20, Best Cost = 7080.19
+Station 1 - Archive size: 2
+Station 1 - Iteration 2: Best Time = 209.40, Best Cost = 6305.05
+Station 1 - Archive size: 2
+Station 1 - Iteration 3: Best Time = 201.70, Best Cost = 6305.05
+Station 1 - Archive size: 5
+Station 1 - Iteration 4: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 17
+Station 1 - Iteration 5: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 37
+Station 1 - Iteration 6: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 53
+Station 1 - Iteration 7: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 73
+Station 1 - Iteration 8: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 93
+Station 1 - Iteration 9: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 113
+Station 1 - Iteration 10: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 133
+Station 1 - Iteration 11: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 153
+Station 1 - Iteration 12: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 173
+Station 1 - Iteration 13: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 193
+Station 1 - Iteration 14: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 14
+Station 1 - Iteration 15: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 33
+Station 1 - Iteration 16: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 52
+Station 1 - Iteration 17: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 71
+Station 1 - Iteration 18: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 90
+Station 1 - Iteration 19: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 109
+Station 1 - Iteration 20: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 129
+Station 1 - Iteration 21: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 149
+Station 1 - Iteration 22: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 168
+Station 1 - Iteration 23: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 188
+Station 1 - Iteration 24: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 10
+Station 1 - Iteration 25: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 30
+Station 1 - Iteration 26: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 49
+Station 1 - Iteration 27: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 69
+Station 1 - Iteration 28: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 88
+Station 1 - Iteration 29: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 108
+Station 1 - Iteration 30: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 128
+Station 1 - Iteration 31: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 146
+Station 1 - Iteration 32: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 166
+Station 1 - Iteration 33: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 186
+Station 1 - Iteration 34: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 8
+Station 1 - Iteration 35: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 28
+Station 1 - Iteration 36: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 48
+Station 1 - Iteration 37: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 66
+Station 1 - Iteration 38: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 86
+Station 1 - Iteration 39: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 106
+Station 1 - Iteration 40: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 126
+Station 1 - Iteration 41: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 146
+Station 1 - Iteration 42: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 166
+Station 1 - Iteration 43: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 185
+Station 1 - Iteration 44: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 7
+Station 1 - Iteration 45: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 27
+Station 1 - Iteration 46: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 46
+Station 1 - Iteration 47: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 66
+Station 1 - Iteration 48: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 84
+Station 1 - Iteration 49: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 104
+Station 1 - Iteration 50: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 124
+Station 1 - Iteration 51: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 143
+Station 1 - Iteration 52: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 163
+Station 1 - Iteration 53: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 183
+Station 1 - Iteration 54: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 5
+Station 1 - Iteration 55: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 25
+Station 1 - Iteration 56: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 44
+Station 1 - Iteration 57: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 63
+Station 1 - Iteration 58: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 83
+Station 1 - Iteration 59: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 103
+Station 1 - Iteration 60: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 123
+Station 1 - Iteration 61: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 143
+Station 1 - Iteration 62: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 162
+Station 1 - Iteration 63: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 182
+Station 1 - Iteration 64: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 4
+Station 1 - Iteration 65: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 24
+Station 1 - Iteration 66: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 44
+Station 1 - Iteration 67: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 63
+Station 1 - Iteration 68: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 83
+Station 1 - Iteration 69: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 103
+Station 1 - Iteration 70: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 122
+Station 1 - Iteration 71: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 140
+Station 1 - Iteration 72: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 160
+Station 1 - Iteration 73: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 180
+Station 1 - Iteration 74: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 200
+Station 1 - Iteration 75: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 22
+Station 1 - Iteration 76: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 41
+Station 1 - Iteration 77: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 61
+Station 1 - Iteration 78: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 81
+Station 1 - Iteration 79: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 101
+Station 1 - Iteration 80: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 121
+Station 1 - Iteration 81: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 141
+Station 1 - Iteration 82: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 160
+Station 1 - Iteration 83: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 180
+Station 1 - Iteration 84: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 200
+Station 1 - Iteration 85: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 22
+Station 1 - Iteration 86: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 42
+Station 1 - Iteration 87: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 62
+Station 1 - Iteration 88: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 82
+Station 1 - Iteration 89: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 102
+Station 1 - Iteration 90: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 121
+Station 1 - Iteration 91: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 141
+Station 1 - Iteration 92: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 161
+Station 1 - Iteration 93: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 180
+Station 1 - Iteration 94: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 199
+Station 1 - Iteration 95: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 21
+Station 1 - Iteration 96: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 41
+Station 1 - Iteration 97: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 60
+Station 1 - Iteration 98: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 80
+Station 1 - Iteration 99: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 100
+Station 1 - Iteration 100: Best Time = 201.70, Best Cost = 6185.86
+Station 1 - Archive size: 120
+
+Running MOACO for station 2...
+Station 2 - Iteration 1: Best Time = 236.90, Best Cost = 6515.19
+Station 2 - Archive size: 4
+Station 2 - Iteration 2: Best Time = 221.60, Best Cost = 5463.89
+Station 2 - Archive size: 2
+Station 2 - Iteration 3: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 3
+Station 2 - Iteration 4: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 6
+Station 2 - Iteration 5: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 16
+Station 2 - Iteration 6: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 35
+Station 2 - Iteration 7: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 54
+Station 2 - Iteration 8: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 74
+Station 2 - Iteration 9: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 94
+Station 2 - Iteration 10: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 114
+Station 2 - Iteration 11: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 134
+Station 2 - Iteration 12: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 154
+Station 2 - Iteration 13: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 174
+Station 2 - Iteration 14: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 194
+Station 2 - Iteration 15: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 15
+Station 2 - Iteration 16: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 35
+Station 2 - Iteration 17: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 55
+Station 2 - Iteration 18: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 75
+Station 2 - Iteration 19: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 95
+Station 2 - Iteration 20: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 115
+Station 2 - Iteration 21: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 135
+Station 2 - Iteration 22: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 155
+Station 2 - Iteration 23: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 175
+Station 2 - Iteration 24: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 195
+Station 2 - Iteration 25: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 16
+Station 2 - Iteration 26: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 36
+Station 2 - Iteration 27: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 56
+Station 2 - Iteration 28: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 76
+Station 2 - Iteration 29: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 96
+Station 2 - Iteration 30: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 116
+Station 2 - Iteration 31: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 136
+Station 2 - Iteration 32: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 156
+Station 2 - Iteration 33: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 176
+Station 2 - Iteration 34: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 196
+Station 2 - Iteration 35: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 17
+Station 2 - Iteration 36: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 37
+Station 2 - Iteration 37: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 57
+Station 2 - Iteration 38: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 77
+Station 2 - Iteration 39: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 97
+Station 2 - Iteration 40: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 117
+Station 2 - Iteration 41: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 137
+Station 2 - Iteration 42: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 157
+Station 2 - Iteration 43: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 177
+Station 2 - Iteration 44: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 197
+Station 2 - Iteration 45: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 18
+Station 2 - Iteration 46: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 38
+Station 2 - Iteration 47: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 58
+Station 2 - Iteration 48: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 78
+Station 2 - Iteration 49: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 98
+Station 2 - Iteration 50: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 118
+Station 2 - Iteration 51: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 138
+Station 2 - Iteration 52: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 158
+Station 2 - Iteration 53: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 178
+Station 2 - Iteration 54: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 198
+Station 2 - Iteration 55: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 19
+Station 2 - Iteration 56: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 39
+Station 2 - Iteration 57: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 59
+Station 2 - Iteration 58: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 79
+Station 2 - Iteration 59: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 99
+Station 2 - Iteration 60: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 119
+Station 2 - Iteration 61: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 139
+Station 2 - Iteration 62: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 159
+Station 2 - Iteration 63: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 179
+Station 2 - Iteration 64: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 199
+Station 2 - Iteration 65: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 20
+Station 2 - Iteration 66: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 40
+Station 2 - Iteration 67: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 60
+Station 2 - Iteration 68: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 80
+Station 2 - Iteration 69: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 100
+Station 2 - Iteration 70: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 120
+Station 2 - Iteration 71: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 140
+Station 2 - Iteration 72: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 160
+Station 2 - Iteration 73: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 180
+Station 2 - Iteration 74: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 200
+Station 2 - Iteration 75: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 21
+Station 2 - Iteration 76: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 41
+Station 2 - Iteration 77: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 61
+Station 2 - Iteration 78: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 81
+Station 2 - Iteration 79: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 101
+Station 2 - Iteration 80: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 121
+Station 2 - Iteration 81: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 141
+Station 2 - Iteration 82: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 161
+Station 2 - Iteration 83: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 181
+Station 2 - Iteration 84: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 2
+Station 2 - Iteration 85: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 22
+Station 2 - Iteration 86: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 42
+Station 2 - Iteration 87: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 62
+Station 2 - Iteration 88: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 82
+Station 2 - Iteration 89: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 102
+Station 2 - Iteration 90: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 122
+Station 2 - Iteration 91: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 142
+Station 2 - Iteration 92: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 162
+Station 2 - Iteration 93: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 182
+Station 2 - Iteration 94: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 3
+Station 2 - Iteration 95: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 23
+Station 2 - Iteration 96: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 43
+Station 2 - Iteration 97: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 63
+Station 2 - Iteration 98: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 83
+Station 2 - Iteration 99: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 103
+Station 2 - Iteration 100: Best Time = 218.50, Best Cost = 5463.89
+Station 2 - Archive size: 123
+
+Running MOACO for station 3...
+Station 3 - Iteration 1: Best Time = 202.30, Best Cost = 6246.87
+Station 3 - Archive size: 3
+Station 3 - Iteration 2: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 4
+Station 3 - Iteration 3: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 5
+Station 3 - Iteration 4: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 11
+Station 3 - Iteration 5: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 22
+Station 3 - Iteration 6: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 37
+Station 3 - Iteration 7: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 53
+Station 3 - Iteration 8: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 69
+Station 3 - Iteration 9: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 87
+Station 3 - Iteration 10: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 107
+Station 3 - Iteration 11: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 126
+Station 3 - Iteration 12: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 146
+Station 3 - Iteration 13: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 166
+Station 3 - Iteration 14: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 186
+Station 3 - Iteration 15: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 8
+Station 3 - Iteration 16: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 28
+Station 3 - Iteration 17: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 47
+Station 3 - Iteration 18: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 67
+Station 3 - Iteration 19: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 84
+Station 3 - Iteration 20: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 103
+Station 3 - Iteration 21: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 123
+Station 3 - Iteration 22: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 143
+Station 3 - Iteration 23: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 162
+Station 3 - Iteration 24: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 182
+Station 3 - Iteration 25: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 4
+Station 3 - Iteration 26: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 21
+Station 3 - Iteration 27: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 40
+Station 3 - Iteration 28: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 59
+Station 3 - Iteration 29: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 79
+Station 3 - Iteration 30: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 97
+Station 3 - Iteration 31: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 115
+Station 3 - Iteration 32: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 135
+Station 3 - Iteration 33: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 155
+Station 3 - Iteration 34: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 174
+Station 3 - Iteration 35: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 194
+Station 3 - Iteration 36: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 17
+Station 3 - Iteration 37: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 37
+Station 3 - Iteration 38: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 57
+Station 3 - Iteration 39: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 77
+Station 3 - Iteration 40: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 97
+Station 3 - Iteration 41: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 116
+Station 3 - Iteration 42: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 135
+Station 3 - Iteration 43: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 155
+Station 3 - Iteration 44: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 175
+Station 3 - Iteration 45: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 195
+Station 3 - Iteration 46: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 18
+Station 3 - Iteration 47: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 37
+Station 3 - Iteration 48: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 56
+Station 3 - Iteration 49: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 76
+Station 3 - Iteration 50: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 95
+Station 3 - Iteration 51: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 114
+Station 3 - Iteration 52: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 132
+Station 3 - Iteration 53: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 152
+Station 3 - Iteration 54: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 172
+Station 3 - Iteration 55: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 191
+Station 3 - Iteration 56: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 12
+Station 3 - Iteration 57: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 31
+Station 3 - Iteration 58: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 50
+Station 3 - Iteration 59: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 66
+Station 3 - Iteration 60: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 86
+Station 3 - Iteration 61: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 106
+Station 3 - Iteration 62: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 126
+Station 3 - Iteration 63: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 144
+Station 3 - Iteration 64: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 164
+Station 3 - Iteration 65: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 184
+Station 3 - Iteration 66: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 7
+Station 3 - Iteration 67: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 26
+Station 3 - Iteration 68: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 44
+Station 3 - Iteration 69: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 63
+Station 3 - Iteration 70: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 81
+Station 3 - Iteration 71: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 101
+Station 3 - Iteration 72: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 121
+Station 3 - Iteration 73: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 141
+Station 3 - Iteration 74: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 160
+Station 3 - Iteration 75: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 180
+Station 3 - Iteration 76: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 200
+Station 3 - Iteration 77: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 23
+Station 3 - Iteration 78: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 42
+Station 3 - Iteration 79: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 61
+Station 3 - Iteration 80: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 81
+Station 3 - Iteration 81: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 101
+Station 3 - Iteration 82: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 119
+Station 3 - Iteration 83: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 138
+Station 3 - Iteration 84: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 158
+Station 3 - Iteration 85: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 178
+Station 3 - Iteration 86: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 198
+Station 3 - Iteration 87: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 21
+Station 3 - Iteration 88: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 40
+Station 3 - Iteration 89: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 60
+Station 3 - Iteration 90: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 79
+Station 3 - Iteration 91: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 99
+Station 3 - Iteration 92: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 119
+Station 3 - Iteration 93: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 138
+Station 3 - Iteration 94: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 155
+Station 3 - Iteration 95: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 175
+Station 3 - Iteration 96: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 195
+Station 3 - Iteration 97: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 17
+Station 3 - Iteration 98: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 37
+Station 3 - Iteration 99: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 57
+Station 3 - Iteration 100: Best Time = 202.30, Best Cost = 5491.87
+Station 3 - Archive size: 76
+
+Running MOACO for station 4...
+Station 4 - Iteration 1: Best Time = 221.10, Best Cost = 5113.66
+Station 4 - Archive size: 3
+Station 4 - Iteration 2: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 3
+Station 4 - Iteration 3: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 7
+Station 4 - Iteration 4: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 12
+Station 4 - Iteration 5: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 26
+Station 4 - Iteration 6: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 45
+Station 4 - Iteration 7: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 63
+Station 4 - Iteration 8: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 81
+Station 4 - Iteration 9: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 101
+Station 4 - Iteration 10: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 121
+Station 4 - Iteration 11: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 141
+Station 4 - Iteration 12: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 161
+Station 4 - Iteration 13: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 179
+Station 4 - Iteration 14: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 199
+Station 4 - Iteration 15: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 19
+Station 4 - Iteration 16: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 39
+Station 4 - Iteration 17: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 57
+Station 4 - Iteration 18: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 75
+Station 4 - Iteration 19: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 93
+Station 4 - Iteration 20: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 112
+Station 4 - Iteration 21: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 131
+Station 4 - Iteration 22: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 151
+Station 4 - Iteration 23: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 170
+Station 4 - Iteration 24: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 189
+Station 4 - Iteration 25: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 9
+Station 4 - Iteration 26: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 27
+Station 4 - Iteration 27: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 47
+Station 4 - Iteration 28: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 64
+Station 4 - Iteration 29: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 81
+Station 4 - Iteration 30: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 100
+Station 4 - Iteration 31: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 119
+Station 4 - Iteration 32: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 139
+Station 4 - Iteration 33: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 159
+Station 4 - Iteration 34: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 177
+Station 4 - Iteration 35: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 196
+Station 4 - Iteration 36: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 16
+Station 4 - Iteration 37: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 36
+Station 4 - Iteration 38: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 56
+Station 4 - Iteration 39: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 76
+Station 4 - Iteration 40: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 95
+Station 4 - Iteration 41: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 115
+Station 4 - Iteration 42: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 135
+Station 4 - Iteration 43: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 154
+Station 4 - Iteration 44: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 174
+Station 4 - Iteration 45: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 193
+Station 4 - Iteration 46: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 13
+Station 4 - Iteration 47: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 33
+Station 4 - Iteration 48: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 52
+Station 4 - Iteration 49: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 72
+Station 4 - Iteration 50: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 90
+Station 4 - Iteration 51: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 108
+Station 4 - Iteration 52: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 128
+Station 4 - Iteration 53: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 147
+Station 4 - Iteration 54: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 167
+Station 4 - Iteration 55: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 187
+Station 4 - Iteration 56: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 7
+Station 4 - Iteration 57: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 25
+Station 4 - Iteration 58: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 45
+Station 4 - Iteration 59: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 62
+Station 4 - Iteration 60: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 82
+Station 4 - Iteration 61: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 101
+Station 4 - Iteration 62: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 121
+Station 4 - Iteration 63: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 141
+Station 4 - Iteration 64: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 161
+Station 4 - Iteration 65: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 181
+Station 4 - Iteration 66: Best Time = 218.90, Best Cost = 6520.80
+Station 4 - Archive size: 1
+Station 4 - Iteration 67: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 21
+Station 4 - Iteration 68: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 40
+Station 4 - Iteration 69: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 59
+Station 4 - Iteration 70: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 79
+Station 4 - Iteration 71: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 99
+Station 4 - Iteration 72: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 118
+Station 4 - Iteration 73: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 135
+Station 4 - Iteration 74: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 154
+Station 4 - Iteration 75: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 174
+Station 4 - Iteration 76: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 193
+Station 4 - Iteration 77: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 13
+Station 4 - Iteration 78: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 33
+Station 4 - Iteration 79: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 52
+Station 4 - Iteration 80: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 72
+Station 4 - Iteration 81: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 92
+Station 4 - Iteration 82: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 111
+Station 4 - Iteration 83: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 131
+Station 4 - Iteration 84: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 151
+Station 4 - Iteration 85: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 171
+Station 4 - Iteration 86: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 191
+Station 4 - Iteration 87: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 10
+Station 4 - Iteration 88: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 30
+Station 4 - Iteration 89: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 45
+Station 4 - Iteration 90: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 63
+Station 4 - Iteration 91: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 79
+Station 4 - Iteration 92: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 98
+Station 4 - Iteration 93: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 118
+Station 4 - Iteration 94: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 137
+Station 4 - Iteration 95: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 157
+Station 4 - Iteration 96: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 177
+Station 4 - Iteration 97: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 197
+Station 4 - Iteration 98: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 17
+Station 4 - Iteration 99: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 37
+Station 4 - Iteration 100: Best Time = 218.90, Best Cost = 5072.60
+Station 4 - Archive size: 55
+
+Running MOACO for station 5...
+Station 5 - Iteration 1: Best Time = 220.40, Best Cost = 5901.92
+Station 5 - Archive size: 2
+Station 5 - Iteration 2: Best Time = 203.30, Best Cost = 5167.86
+Station 5 - Archive size: 2
+Station 5 - Iteration 3: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 1
+Station 5 - Iteration 4: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 1
+Station 5 - Iteration 5: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 3
+Station 5 - Iteration 6: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 13
+Station 5 - Iteration 7: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 33
+Station 5 - Iteration 8: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 53
+Station 5 - Iteration 9: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 73
+Station 5 - Iteration 10: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 93
+Station 5 - Iteration 11: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 113
+Station 5 - Iteration 12: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 133
+Station 5 - Iteration 13: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 153
+Station 5 - Iteration 14: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 173
+Station 5 - Iteration 15: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 193
+Station 5 - Iteration 16: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 13
+Station 5 - Iteration 17: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 33
+Station 5 - Iteration 18: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 53
+Station 5 - Iteration 19: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 73
+Station 5 - Iteration 20: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 93
+Station 5 - Iteration 21: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 113
+Station 5 - Iteration 22: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 133
+Station 5 - Iteration 23: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 153
+Station 5 - Iteration 24: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 173
+Station 5 - Iteration 25: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 193
+Station 5 - Iteration 26: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 13
+Station 5 - Iteration 27: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 33
+Station 5 - Iteration 28: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 53
+Station 5 - Iteration 29: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 73
+Station 5 - Iteration 30: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 93
+Station 5 - Iteration 31: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 113
+Station 5 - Iteration 32: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 133
+Station 5 - Iteration 33: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 153
+Station 5 - Iteration 34: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 173
+Station 5 - Iteration 35: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 193
+Station 5 - Iteration 36: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 13
+Station 5 - Iteration 37: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 33
+Station 5 - Iteration 38: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 53
+Station 5 - Iteration 39: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 73
+Station 5 - Iteration 40: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 93
+Station 5 - Iteration 41: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 113
+Station 5 - Iteration 42: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 133
+Station 5 - Iteration 43: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 153
+Station 5 - Iteration 44: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 173
+Station 5 - Iteration 45: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 193
+Station 5 - Iteration 46: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 13
+Station 5 - Iteration 47: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 33
+Station 5 - Iteration 48: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 53
+Station 5 - Iteration 49: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 73
+Station 5 - Iteration 50: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 93
+Station 5 - Iteration 51: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 113
+Station 5 - Iteration 52: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 133
+Station 5 - Iteration 53: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 153
+Station 5 - Iteration 54: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 173
+Station 5 - Iteration 55: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 193
+Station 5 - Iteration 56: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 13
+Station 5 - Iteration 57: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 33
+Station 5 - Iteration 58: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 53
+Station 5 - Iteration 59: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 73
+Station 5 - Iteration 60: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 93
+Station 5 - Iteration 61: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 113
+Station 5 - Iteration 62: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 133
+Station 5 - Iteration 63: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 153
+Station 5 - Iteration 64: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 173
+Station 5 - Iteration 65: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 193
+Station 5 - Iteration 66: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 13
+Station 5 - Iteration 67: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 33
+Station 5 - Iteration 68: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 53
+Station 5 - Iteration 69: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 73
+Station 5 - Iteration 70: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 93
+Station 5 - Iteration 71: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 113
+Station 5 - Iteration 72: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 133
+Station 5 - Iteration 73: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 153
+Station 5 - Iteration 74: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 173
+Station 5 - Iteration 75: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 193
+Station 5 - Iteration 76: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 13
+Station 5 - Iteration 77: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 33
+Station 5 - Iteration 78: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 53
+Station 5 - Iteration 79: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 73
+Station 5 - Iteration 80: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 93
+Station 5 - Iteration 81: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 113
+Station 5 - Iteration 82: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 133
+Station 5 - Iteration 83: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 153
+Station 5 - Iteration 84: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 173
+Station 5 - Iteration 85: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 193
+Station 5 - Iteration 86: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 13
+Station 5 - Iteration 87: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 33
+Station 5 - Iteration 88: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 53
+Station 5 - Iteration 89: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 73
+Station 5 - Iteration 90: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 93
+Station 5 - Iteration 91: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 113
+Station 5 - Iteration 92: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 133
+Station 5 - Iteration 93: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 153
+Station 5 - Iteration 94: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 173
+Station 5 - Iteration 95: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 193
+Station 5 - Iteration 96: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 13
+Station 5 - Iteration 97: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 33
+Station 5 - Iteration 98: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 53
+Station 5 - Iteration 99: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 73
+Station 5 - Iteration 100: Best Time = 199.90, Best Cost = 4783.05
+Station 5 - Archive size: 93
+
+Running MOACO for station 6...
+Station 6 - Iteration 1: Best Time = 235.70, Best Cost = 7308.71
+Station 6 - Archive size: 6
+Station 6 - Iteration 2: Best Time = 235.70, Best Cost = 6171.99
+Station 6 - Archive size: 7
+Station 6 - Iteration 3: Best Time = 235.70, Best Cost = 6044.43
+Station 6 - Archive size: 3
+Station 6 - Iteration 4: Best Time = 235.70, Best Cost = 6044.43
+Station 6 - Archive size: 10
+Station 6 - Iteration 5: Best Time = 234.80, Best Cost = 5770.71
+Station 6 - Archive size: 5
+Station 6 - Iteration 6: Best Time = 234.80, Best Cost = 5770.71
+Station 6 - Archive size: 9
+Station 6 - Iteration 7: Best Time = 234.80, Best Cost = 5770.71
+Station 6 - Archive size: 16
+Station 6 - Iteration 8: Best Time = 234.80, Best Cost = 5770.71
+Station 6 - Archive size: 29
+Station 6 - Iteration 9: Best Time = 234.80, Best Cost = 5770.71
+Station 6 - Archive size: 45
+Station 6 - Iteration 10: Best Time = 234.80, Best Cost = 5770.71
+Station 6 - Archive size: 58
+Station 6 - Iteration 11: Best Time = 234.80, Best Cost = 5770.71
+Station 6 - Archive size: 73
+Station 6 - Iteration 12: Best Time = 234.80, Best Cost = 5770.71
+Station 6 - Archive size: 87
+Station 6 - Iteration 13: Best Time = 234.80, Best Cost = 5770.71
+Station 6 - Archive size: 105
+Station 6 - Iteration 14: Best Time = 234.80, Best Cost = 5770.71
+Station 6 - Archive size: 121
+Station 6 - Iteration 15: Best Time = 234.80, Best Cost = 5770.71
+Station 6 - Archive size: 137
+Station 6 - Iteration 16: Best Time = 234.80, Best Cost = 5770.71
+Station 6 - Archive size: 153
+Station 6 - Iteration 17: Best Time = 234.80, Best Cost = 5770.71
+Station 6 - Archive size: 169
+Station 6 - Iteration 18: Best Time = 234.80, Best Cost = 5770.71
+Station 6 - Archive size: 186
+Station 6 - Iteration 19: Best Time = 234.80, Best Cost = 8353.15
+Station 6 - Archive size: 3
+Station 6 - Iteration 20: Best Time = 234.80, Best Cost = 8353.15
+Station 6 - Archive size: 22
+Station 6 - Iteration 21: Best Time = 234.80, Best Cost = 8353.15
+Station 6 - Archive size: 41
+Station 6 - Iteration 22: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 61
+Station 6 - Iteration 23: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 81
+Station 6 - Iteration 24: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 101
+Station 6 - Iteration 25: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 121
+Station 6 - Iteration 26: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 141
+Station 6 - Iteration 27: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 161
+Station 6 - Iteration 28: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 181
+Station 6 - Iteration 29: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 2
+Station 6 - Iteration 30: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 22
+Station 6 - Iteration 31: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 42
+Station 6 - Iteration 32: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 62
+Station 6 - Iteration 33: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 82
+Station 6 - Iteration 34: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 102
+Station 6 - Iteration 35: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 122
+Station 6 - Iteration 36: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 142
+Station 6 - Iteration 37: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 162
+Station 6 - Iteration 38: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 182
+Station 6 - Iteration 39: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 3
+Station 6 - Iteration 40: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 23
+Station 6 - Iteration 41: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 43
+Station 6 - Iteration 42: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 63
+Station 6 - Iteration 43: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 83
+Station 6 - Iteration 44: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 103
+Station 6 - Iteration 45: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 123
+Station 6 - Iteration 46: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 143
+Station 6 - Iteration 47: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 163
+Station 6 - Iteration 48: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 183
+Station 6 - Iteration 49: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 4
+Station 6 - Iteration 50: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 24
+Station 6 - Iteration 51: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 44
+Station 6 - Iteration 52: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 64
+Station 6 - Iteration 53: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 84
+Station 6 - Iteration 54: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 104
+Station 6 - Iteration 55: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 124
+Station 6 - Iteration 56: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 144
+Station 6 - Iteration 57: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 164
+Station 6 - Iteration 58: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 184
+Station 6 - Iteration 59: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 5
+Station 6 - Iteration 60: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 25
+Station 6 - Iteration 61: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 45
+Station 6 - Iteration 62: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 65
+Station 6 - Iteration 63: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 85
+Station 6 - Iteration 64: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 105
+Station 6 - Iteration 65: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 125
+Station 6 - Iteration 66: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 145
+Station 6 - Iteration 67: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 165
+Station 6 - Iteration 68: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 185
+Station 6 - Iteration 69: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 6
+Station 6 - Iteration 70: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 26
+Station 6 - Iteration 71: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 46
+Station 6 - Iteration 72: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 66
+Station 6 - Iteration 73: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 86
+Station 6 - Iteration 74: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 106
+Station 6 - Iteration 75: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 126
+Station 6 - Iteration 76: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 146
+Station 6 - Iteration 77: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 166
+Station 6 - Iteration 78: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 186
+Station 6 - Iteration 79: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 7
+Station 6 - Iteration 80: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 27
+Station 6 - Iteration 81: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 47
+Station 6 - Iteration 82: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 67
+Station 6 - Iteration 83: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 87
+Station 6 - Iteration 84: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 107
+Station 6 - Iteration 85: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 127
+Station 6 - Iteration 86: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 147
+Station 6 - Iteration 87: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 167
+Station 6 - Iteration 88: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 187
+Station 6 - Iteration 89: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 8
+Station 6 - Iteration 90: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 28
+Station 6 - Iteration 91: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 48
+Station 6 - Iteration 92: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 68
+Station 6 - Iteration 93: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 88
+Station 6 - Iteration 94: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 108
+Station 6 - Iteration 95: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 128
+Station 6 - Iteration 96: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 148
+Station 6 - Iteration 97: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 168
+Station 6 - Iteration 98: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 188
+Station 6 - Iteration 99: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 9
+Station 6 - Iteration 100: Best Time = 234.80, Best Cost = 7811.50
+Station 6 - Archive size: 29
+
+Running MOACO for station 7...
+Station 7 - Iteration 1: Best Time = 205.30, Best Cost = 6141.50
+Station 7 - Archive size: 3
+Station 7 - Iteration 2: Best Time = 205.30, Best Cost = 5642.31
+Station 7 - Archive size: 5
+Station 7 - Iteration 3: Best Time = 205.30, Best Cost = 5440.74
+Station 7 - Archive size: 2
+Station 7 - Iteration 4: Best Time = 205.30, Best Cost = 5440.74
+Station 7 - Archive size: 3
+Station 7 - Iteration 5: Best Time = 205.30, Best Cost = 5265.10
+Station 7 - Archive size: 7
+Station 7 - Iteration 6: Best Time = 199.40, Best Cost = 5265.10
+Station 7 - Archive size: 14
+Station 7 - Iteration 7: Best Time = 199.40, Best Cost = 5265.10
+Station 7 - Archive size: 19
+Station 7 - Iteration 8: Best Time = 199.40, Best Cost = 5265.10
+Station 7 - Archive size: 30
+Station 7 - Iteration 9: Best Time = 199.40, Best Cost = 5265.10
+Station 7 - Archive size: 41
+Station 7 - Iteration 10: Best Time = 199.40, Best Cost = 5265.10
+Station 7 - Archive size: 50
+Station 7 - Iteration 11: Best Time = 199.40, Best Cost = 5265.10
+Station 7 - Archive size: 61
+Station 7 - Iteration 12: Best Time = 199.40, Best Cost = 5265.10
+Station 7 - Archive size: 72
+Station 7 - Iteration 13: Best Time = 199.40, Best Cost = 5265.10
+Station 7 - Archive size: 84
+Station 7 - Iteration 14: Best Time = 199.40, Best Cost = 5265.10
+Station 7 - Archive size: 96
+Station 7 - Iteration 15: Best Time = 199.40, Best Cost = 5265.10
+Station 7 - Archive size: 108
+Station 7 - Iteration 16: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 123
+Station 7 - Iteration 17: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 138
+Station 7 - Iteration 18: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 154
+Station 7 - Iteration 19: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 170
+Station 7 - Iteration 20: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 185
+Station 7 - Iteration 21: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 7
+Station 7 - Iteration 22: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 25
+Station 7 - Iteration 23: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 39
+Station 7 - Iteration 24: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 57
+Station 7 - Iteration 25: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 75
+Station 7 - Iteration 26: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 93
+Station 7 - Iteration 27: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 111
+Station 7 - Iteration 28: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 127
+Station 7 - Iteration 29: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 145
+Station 7 - Iteration 30: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 164
+Station 7 - Iteration 31: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 182
+Station 7 - Iteration 32: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 200
+Station 7 - Iteration 33: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 21
+Station 7 - Iteration 34: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 37
+Station 7 - Iteration 35: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 52
+Station 7 - Iteration 36: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 69
+Station 7 - Iteration 37: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 88
+Station 7 - Iteration 38: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 100
+Station 7 - Iteration 39: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 116
+Station 7 - Iteration 40: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 134
+Station 7 - Iteration 41: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 153
+Station 7 - Iteration 42: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 173
+Station 7 - Iteration 43: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 193
+Station 7 - Iteration 44: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 13
+Station 7 - Iteration 45: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 31
+Station 7 - Iteration 46: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 49
+Station 7 - Iteration 47: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 65
+Station 7 - Iteration 48: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 83
+Station 7 - Iteration 49: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 96
+Station 7 - Iteration 50: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 115
+Station 7 - Iteration 51: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 134
+Station 7 - Iteration 52: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 152
+Station 7 - Iteration 53: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 171
+Station 7 - Iteration 54: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 189
+Station 7 - Iteration 55: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 10
+Station 7 - Iteration 56: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 27
+Station 7 - Iteration 57: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 46
+Station 7 - Iteration 58: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 61
+Station 7 - Iteration 59: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 77
+Station 7 - Iteration 60: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 93
+Station 7 - Iteration 61: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 109
+Station 7 - Iteration 62: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 126
+Station 7 - Iteration 63: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 144
+Station 7 - Iteration 64: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 164
+Station 7 - Iteration 65: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 179
+Station 7 - Iteration 66: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 199
+Station 7 - Iteration 67: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 21
+Station 7 - Iteration 68: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 40
+Station 7 - Iteration 69: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 59
+Station 7 - Iteration 70: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 77
+Station 7 - Iteration 71: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 93
+Station 7 - Iteration 72: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 111
+Station 7 - Iteration 73: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 129
+Station 7 - Iteration 74: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 145
+Station 7 - Iteration 75: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 164
+Station 7 - Iteration 76: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 183
+Station 7 - Iteration 77: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 3
+Station 7 - Iteration 78: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 21
+Station 7 - Iteration 79: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 37
+Station 7 - Iteration 80: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 53
+Station 7 - Iteration 81: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 64
+Station 7 - Iteration 82: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 80
+Station 7 - Iteration 83: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 99
+Station 7 - Iteration 84: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 116
+Station 7 - Iteration 85: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 132
+Station 7 - Iteration 86: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 152
+Station 7 - Iteration 87: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 171
+Station 7 - Iteration 88: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 191
+Station 7 - Iteration 89: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 13
+Station 7 - Iteration 90: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 27
+Station 7 - Iteration 91: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 43
+Station 7 - Iteration 92: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 59
+Station 7 - Iteration 93: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 75
+Station 7 - Iteration 94: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 92
+Station 7 - Iteration 95: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 110
+Station 7 - Iteration 96: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 127
+Station 7 - Iteration 97: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 147
+Station 7 - Iteration 98: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 167
+Station 7 - Iteration 99: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 185
+Station 7 - Iteration 100: Best Time = 199.40, Best Cost = 5183.67
+Station 7 - Archive size: 7
+
+Running MOACO for station 8...
+Station 8 - Iteration 1: Best Time = 270.40, Best Cost = 6872.14
+Station 8 - Archive size: 5
+Station 8 - Iteration 2: Best Time = 219.10, Best Cost = 6100.91
+Station 8 - Archive size: 4
+Station 8 - Iteration 3: Best Time = 219.10, Best Cost = 6100.91
+Station 8 - Archive size: 4
+Station 8 - Iteration 4: Best Time = 219.10, Best Cost = 6100.91
+Station 8 - Archive size: 8
+Station 8 - Iteration 5: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 12
+Station 8 - Iteration 6: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 18
+Station 8 - Iteration 7: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 27
+Station 8 - Iteration 8: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 40
+Station 8 - Iteration 9: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 51
+Station 8 - Iteration 10: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 60
+Station 8 - Iteration 11: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 73
+Station 8 - Iteration 12: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 85
+Station 8 - Iteration 13: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 103
+Station 8 - Iteration 14: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 118
+Station 8 - Iteration 15: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 134
+Station 8 - Iteration 16: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 149
+Station 8 - Iteration 17: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 166
+Station 8 - Iteration 18: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 183
+Station 8 - Iteration 19: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 199
+Station 8 - Iteration 20: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 18
+Station 8 - Iteration 21: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 35
+Station 8 - Iteration 22: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 54
+Station 8 - Iteration 23: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 72
+Station 8 - Iteration 24: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 90
+Station 8 - Iteration 25: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 110
+Station 8 - Iteration 26: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 128
+Station 8 - Iteration 27: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 148
+Station 8 - Iteration 28: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 167
+Station 8 - Iteration 29: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 187
+Station 8 - Iteration 30: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 7
+Station 8 - Iteration 31: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 25
+Station 8 - Iteration 32: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 43
+Station 8 - Iteration 33: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 61
+Station 8 - Iteration 34: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 79
+Station 8 - Iteration 35: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 98
+Station 8 - Iteration 36: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 113
+Station 8 - Iteration 37: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 132
+Station 8 - Iteration 38: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 152
+Station 8 - Iteration 39: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 168
+Station 8 - Iteration 40: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 187
+Station 8 - Iteration 41: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 9
+Station 8 - Iteration 42: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 28
+Station 8 - Iteration 43: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 48
+Station 8 - Iteration 44: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 67
+Station 8 - Iteration 45: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 85
+Station 8 - Iteration 46: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 104
+Station 8 - Iteration 47: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 123
+Station 8 - Iteration 48: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 142
+Station 8 - Iteration 49: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 162
+Station 8 - Iteration 50: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 181
+Station 8 - Iteration 51: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 4
+Station 8 - Iteration 52: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 23
+Station 8 - Iteration 53: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 43
+Station 8 - Iteration 54: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 63
+Station 8 - Iteration 55: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 81
+Station 8 - Iteration 56: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 100
+Station 8 - Iteration 57: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 120
+Station 8 - Iteration 58: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 139
+Station 8 - Iteration 59: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 159
+Station 8 - Iteration 60: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 178
+Station 8 - Iteration 61: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 198
+Station 8 - Iteration 62: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 20
+Station 8 - Iteration 63: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 38
+Station 8 - Iteration 64: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 58
+Station 8 - Iteration 65: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 78
+Station 8 - Iteration 66: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 96
+Station 8 - Iteration 67: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 113
+Station 8 - Iteration 68: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 132
+Station 8 - Iteration 69: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 150
+Station 8 - Iteration 70: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 168
+Station 8 - Iteration 71: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 187
+Station 8 - Iteration 72: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 9
+Station 8 - Iteration 73: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 29
+Station 8 - Iteration 74: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 46
+Station 8 - Iteration 75: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 64
+Station 8 - Iteration 76: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 83
+Station 8 - Iteration 77: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 102
+Station 8 - Iteration 78: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 119
+Station 8 - Iteration 79: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 138
+Station 8 - Iteration 80: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 158
+Station 8 - Iteration 81: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 178
+Station 8 - Iteration 82: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 196
+Station 8 - Iteration 83: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 19
+Station 8 - Iteration 84: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 36
+Station 8 - Iteration 85: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 56
+Station 8 - Iteration 86: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 72
+Station 8 - Iteration 87: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 91
+Station 8 - Iteration 88: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 110
+Station 8 - Iteration 89: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 129
+Station 8 - Iteration 90: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 149
+Station 8 - Iteration 91: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 169
+Station 8 - Iteration 92: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 189
+Station 8 - Iteration 93: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 12
+Station 8 - Iteration 94: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 31
+Station 8 - Iteration 95: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 50
+Station 8 - Iteration 96: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 68
+Station 8 - Iteration 97: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 87
+Station 8 - Iteration 98: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 106
+Station 8 - Iteration 99: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 125
+Station 8 - Iteration 100: Best Time = 210.40, Best Cost = 6100.91
+Station 8 - Archive size: 145
+
+Running MOACO for station 9...
+Station 9 - Iteration 1: Best Time = 193.60, Best Cost = 5678.47
+Station 9 - Archive size: 3
+Station 9 - Iteration 2: Best Time = 193.60, Best Cost = 5678.47
+Station 9 - Archive size: 7
+Station 9 - Iteration 3: Best Time = 193.60, Best Cost = 5345.66
+Station 9 - Archive size: 7
+Station 9 - Iteration 4: Best Time = 193.60, Best Cost = 5345.66
+Station 9 - Archive size: 5
+Station 9 - Iteration 5: Best Time = 193.60, Best Cost = 5345.66
+Station 9 - Archive size: 8
+Station 9 - Iteration 6: Best Time = 193.20, Best Cost = 5345.66
+Station 9 - Archive size: 19
+Station 9 - Iteration 7: Best Time = 193.20, Best Cost = 5345.66
+Station 9 - Archive size: 25
+Station 9 - Iteration 8: Best Time = 193.20, Best Cost = 5345.66
+Station 9 - Archive size: 33
+Station 9 - Iteration 9: Best Time = 193.20, Best Cost = 5345.66
+Station 9 - Archive size: 41
+Station 9 - Iteration 10: Best Time = 193.20, Best Cost = 5345.66
+Station 9 - Archive size: 51
+Station 9 - Iteration 11: Best Time = 193.20, Best Cost = 5345.66
+Station 9 - Archive size: 62
+Station 9 - Iteration 12: Best Time = 193.20, Best Cost = 5345.66
+Station 9 - Archive size: 70
+Station 9 - Iteration 13: Best Time = 193.20, Best Cost = 5345.66
+Station 9 - Archive size: 79
+Station 9 - Iteration 14: Best Time = 193.20, Best Cost = 5345.66
+Station 9 - Archive size: 89
+Station 9 - Iteration 15: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 80
+Station 9 - Iteration 16: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 96
+Station 9 - Iteration 17: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 114
+Station 9 - Iteration 18: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 133
+Station 9 - Iteration 19: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 151
+Station 9 - Iteration 20: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 170
+Station 9 - Iteration 21: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 190
+Station 9 - Iteration 22: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 11
+Station 9 - Iteration 23: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 31
+Station 9 - Iteration 24: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 47
+Station 9 - Iteration 25: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 65
+Station 9 - Iteration 26: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 83
+Station 9 - Iteration 27: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 100
+Station 9 - Iteration 28: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 118
+Station 9 - Iteration 29: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 136
+Station 9 - Iteration 30: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 156
+Station 9 - Iteration 31: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 176
+Station 9 - Iteration 32: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 196
+Station 9 - Iteration 33: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 17
+Station 9 - Iteration 34: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 36
+Station 9 - Iteration 35: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 52
+Station 9 - Iteration 36: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 71
+Station 9 - Iteration 37: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 90
+Station 9 - Iteration 38: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 108
+Station 9 - Iteration 39: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 127
+Station 9 - Iteration 40: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 144
+Station 9 - Iteration 41: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 163
+Station 9 - Iteration 42: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 183
+Station 9 - Iteration 43: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 4
+Station 9 - Iteration 44: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 23
+Station 9 - Iteration 45: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 40
+Station 9 - Iteration 46: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 56
+Station 9 - Iteration 47: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 75
+Station 9 - Iteration 48: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 92
+Station 9 - Iteration 49: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 111
+Station 9 - Iteration 50: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 131
+Station 9 - Iteration 51: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 151
+Station 9 - Iteration 52: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 171
+Station 9 - Iteration 53: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 191
+Station 9 - Iteration 54: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 12
+Station 9 - Iteration 55: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 32
+Station 9 - Iteration 56: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 50
+Station 9 - Iteration 57: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 70
+Station 9 - Iteration 58: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 87
+Station 9 - Iteration 59: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 106
+Station 9 - Iteration 60: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 125
+Station 9 - Iteration 61: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 145
+Station 9 - Iteration 62: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 164
+Station 9 - Iteration 63: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 181
+Station 9 - Iteration 64: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 200
+Station 9 - Iteration 65: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 20
+Station 9 - Iteration 66: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 39
+Station 9 - Iteration 67: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 59
+Station 9 - Iteration 68: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 75
+Station 9 - Iteration 69: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 92
+Station 9 - Iteration 70: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 110
+Station 9 - Iteration 71: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 125
+Station 9 - Iteration 72: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 145
+Station 9 - Iteration 73: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 164
+Station 9 - Iteration 74: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 184
+Station 9 - Iteration 75: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 4
+Station 9 - Iteration 76: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 23
+Station 9 - Iteration 77: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 43
+Station 9 - Iteration 78: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 62
+Station 9 - Iteration 79: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 78
+Station 9 - Iteration 80: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 98
+Station 9 - Iteration 81: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 117
+Station 9 - Iteration 82: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 137
+Station 9 - Iteration 83: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 155
+Station 9 - Iteration 84: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 174
+Station 9 - Iteration 85: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 191
+Station 9 - Iteration 86: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 10
+Station 9 - Iteration 87: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 30
+Station 9 - Iteration 88: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 49
+Station 9 - Iteration 89: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 67
+Station 9 - Iteration 90: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 85
+Station 9 - Iteration 91: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 103
+Station 9 - Iteration 92: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 123
+Station 9 - Iteration 93: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 143
+Station 9 - Iteration 94: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 162
+Station 9 - Iteration 95: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 181
+Station 9 - Iteration 96: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 2
+Station 9 - Iteration 97: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 20
+Station 9 - Iteration 98: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 39
+Station 9 - Iteration 99: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 58
+Station 9 - Iteration 100: Best Time = 193.20, Best Cost = 4399.35
+Station 9 - Archive size: 77
+
+Running MOACO for station 10...
+Station 10 - Iteration 1: Best Time = 248.50, Best Cost = 6811.98
+Station 10 - Archive size: 4
+Station 10 - Iteration 2: Best Time = 241.00, Best Cost = 6376.76
+Station 10 - Archive size: 3
+Station 10 - Iteration 3: Best Time = 240.30, Best Cost = 6376.76
+Station 10 - Archive size: 4
+Station 10 - Iteration 4: Best Time = 239.40, Best Cost = 6376.76
+Station 10 - Archive size: 3
+Station 10 - Iteration 5: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 2
+Station 10 - Iteration 6: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 6
+Station 10 - Iteration 7: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 20
+Station 10 - Iteration 8: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 38
+Station 10 - Iteration 9: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 58
+Station 10 - Iteration 10: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 78
+Station 10 - Iteration 11: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 98
+Station 10 - Iteration 12: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 118
+Station 10 - Iteration 13: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 138
+Station 10 - Iteration 14: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 158
+Station 10 - Iteration 15: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 178
+Station 10 - Iteration 16: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 198
+Station 10 - Iteration 17: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 18
+Station 10 - Iteration 18: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 38
+Station 10 - Iteration 19: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 58
+Station 10 - Iteration 20: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 78
+Station 10 - Iteration 21: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 98
+Station 10 - Iteration 22: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 118
+Station 10 - Iteration 23: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 138
+Station 10 - Iteration 24: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 158
+Station 10 - Iteration 25: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 178
+Station 10 - Iteration 26: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 198
+Station 10 - Iteration 27: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 18
+Station 10 - Iteration 28: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 38
+Station 10 - Iteration 29: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 58
+Station 10 - Iteration 30: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 78
+Station 10 - Iteration 31: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 98
+Station 10 - Iteration 32: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 118
+Station 10 - Iteration 33: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 138
+Station 10 - Iteration 34: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 158
+Station 10 - Iteration 35: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 178
+Station 10 - Iteration 36: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 198
+Station 10 - Iteration 37: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 18
+Station 10 - Iteration 38: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 38
+Station 10 - Iteration 39: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 58
+Station 10 - Iteration 40: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 78
+Station 10 - Iteration 41: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 98
+Station 10 - Iteration 42: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 118
+Station 10 - Iteration 43: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 138
+Station 10 - Iteration 44: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 158
+Station 10 - Iteration 45: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 178
+Station 10 - Iteration 46: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 198
+Station 10 - Iteration 47: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 18
+Station 10 - Iteration 48: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 38
+Station 10 - Iteration 49: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 58
+Station 10 - Iteration 50: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 78
+Station 10 - Iteration 51: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 98
+Station 10 - Iteration 52: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 118
+Station 10 - Iteration 53: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 138
+Station 10 - Iteration 54: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 158
+Station 10 - Iteration 55: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 178
+Station 10 - Iteration 56: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 198
+Station 10 - Iteration 57: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 18
+Station 10 - Iteration 58: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 38
+Station 10 - Iteration 59: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 58
+Station 10 - Iteration 60: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 78
+Station 10 - Iteration 61: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 98
+Station 10 - Iteration 62: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 118
+Station 10 - Iteration 63: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 138
+Station 10 - Iteration 64: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 158
+Station 10 - Iteration 65: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 178
+Station 10 - Iteration 66: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 198
+Station 10 - Iteration 67: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 18
+Station 10 - Iteration 68: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 38
+Station 10 - Iteration 69: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 58
+Station 10 - Iteration 70: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 78
+Station 10 - Iteration 71: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 98
+Station 10 - Iteration 72: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 118
+Station 10 - Iteration 73: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 138
+Station 10 - Iteration 74: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 158
+Station 10 - Iteration 75: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 178
+Station 10 - Iteration 76: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 198
+Station 10 - Iteration 77: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 18
+Station 10 - Iteration 78: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 38
+Station 10 - Iteration 79: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 58
+Station 10 - Iteration 80: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 78
+Station 10 - Iteration 81: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 98
+Station 10 - Iteration 82: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 118
+Station 10 - Iteration 83: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 138
+Station 10 - Iteration 84: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 158
+Station 10 - Iteration 85: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 178
+Station 10 - Iteration 86: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 198
+Station 10 - Iteration 87: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 18
+Station 10 - Iteration 88: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 38
+Station 10 - Iteration 89: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 58
+Station 10 - Iteration 90: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 78
+Station 10 - Iteration 91: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 98
+Station 10 - Iteration 92: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 118
+Station 10 - Iteration 93: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 138
+Station 10 - Iteration 94: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 158
+Station 10 - Iteration 95: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 178
+Station 10 - Iteration 96: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 198
+Station 10 - Iteration 97: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 18
+Station 10 - Iteration 98: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 38
+Station 10 - Iteration 99: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 58
+Station 10 - Iteration 100: Best Time = 239.40, Best Cost = 6363.21
+Station 10 - Archive size: 78
+
+Running MOACO for station 11...
+Station 11 - Iteration 1: Best Time = 229.80, Best Cost = 5897.18
+Station 11 - Archive size: 2
+Station 11 - Iteration 2: Best Time = 217.00, Best Cost = 5440.37
+Station 11 - Archive size: 6
+Station 11 - Iteration 3: Best Time = 211.90, Best Cost = 5440.37
+Station 11 - Archive size: 17
+Station 11 - Iteration 4: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 4
+Station 11 - Iteration 5: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 7
+Station 11 - Iteration 6: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 17
+Station 11 - Iteration 7: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 35
+Station 11 - Iteration 8: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 54
+Station 11 - Iteration 9: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 73
+Station 11 - Iteration 10: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 93
+Station 11 - Iteration 11: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 113
+Station 11 - Iteration 12: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 133
+Station 11 - Iteration 13: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 153
+Station 11 - Iteration 14: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 173
+Station 11 - Iteration 15: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 193
+Station 11 - Iteration 16: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 13
+Station 11 - Iteration 17: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 33
+Station 11 - Iteration 18: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 53
+Station 11 - Iteration 19: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 73
+Station 11 - Iteration 20: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 93
+Station 11 - Iteration 21: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 113
+Station 11 - Iteration 22: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 133
+Station 11 - Iteration 23: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 153
+Station 11 - Iteration 24: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 173
+Station 11 - Iteration 25: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 193
+Station 11 - Iteration 26: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 13
+Station 11 - Iteration 27: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 33
+Station 11 - Iteration 28: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 53
+Station 11 - Iteration 29: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 73
+Station 11 - Iteration 30: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 93
+Station 11 - Iteration 31: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 113
+Station 11 - Iteration 32: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 133
+Station 11 - Iteration 33: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 153
+Station 11 - Iteration 34: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 173
+Station 11 - Iteration 35: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 193
+Station 11 - Iteration 36: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 13
+Station 11 - Iteration 37: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 33
+Station 11 - Iteration 38: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 53
+Station 11 - Iteration 39: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 73
+Station 11 - Iteration 40: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 93
+Station 11 - Iteration 41: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 113
+Station 11 - Iteration 42: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 133
+Station 11 - Iteration 43: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 153
+Station 11 - Iteration 44: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 173
+Station 11 - Iteration 45: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 193
+Station 11 - Iteration 46: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 13
+Station 11 - Iteration 47: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 33
+Station 11 - Iteration 48: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 53
+Station 11 - Iteration 49: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 73
+Station 11 - Iteration 50: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 93
+Station 11 - Iteration 51: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 113
+Station 11 - Iteration 52: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 133
+Station 11 - Iteration 53: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 153
+Station 11 - Iteration 54: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 173
+Station 11 - Iteration 55: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 193
+Station 11 - Iteration 56: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 13
+Station 11 - Iteration 57: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 33
+Station 11 - Iteration 58: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 53
+Station 11 - Iteration 59: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 73
+Station 11 - Iteration 60: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 93
+Station 11 - Iteration 61: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 113
+Station 11 - Iteration 62: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 133
+Station 11 - Iteration 63: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 153
+Station 11 - Iteration 64: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 173
+Station 11 - Iteration 65: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 193
+Station 11 - Iteration 66: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 13
+Station 11 - Iteration 67: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 33
+Station 11 - Iteration 68: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 53
+Station 11 - Iteration 69: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 73
+Station 11 - Iteration 70: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 93
+Station 11 - Iteration 71: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 113
+Station 11 - Iteration 72: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 133
+Station 11 - Iteration 73: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 153
+Station 11 - Iteration 74: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 173
+Station 11 - Iteration 75: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 193
+Station 11 - Iteration 76: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 13
+Station 11 - Iteration 77: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 33
+Station 11 - Iteration 78: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 53
+Station 11 - Iteration 79: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 73
+Station 11 - Iteration 80: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 93
+Station 11 - Iteration 81: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 113
+Station 11 - Iteration 82: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 133
+Station 11 - Iteration 83: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 153
+Station 11 - Iteration 84: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 173
+Station 11 - Iteration 85: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 193
+Station 11 - Iteration 86: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 13
+Station 11 - Iteration 87: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 33
+Station 11 - Iteration 88: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 53
+Station 11 - Iteration 89: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 73
+Station 11 - Iteration 90: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 93
+Station 11 - Iteration 91: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 113
+Station 11 - Iteration 92: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 133
+Station 11 - Iteration 93: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 153
+Station 11 - Iteration 94: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 173
+Station 11 - Iteration 95: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 193
+Station 11 - Iteration 96: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 13
+Station 11 - Iteration 97: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 33
+Station 11 - Iteration 98: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 53
+Station 11 - Iteration 99: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 73
+Station 11 - Iteration 100: Best Time = 211.90, Best Cost = 5271.30
+Station 11 - Archive size: 93
+
+--- Best Solutions for Each Station (Before 2-Opt) ---
+
+Station 0:
+  Route (IDs): [1, 31, 30, 17, 42, 43, 39, 41, 40, 45, 35, 1]
+  Time: 213.00 minutes
+  Cost: 5159.61 Baht
+
+Station 1:
+  Route (IDs): [2, 41, 39, 40, 45, 35, 31, 17, 42, 43, 30, 2]
+  Time: 237.80 minutes
+  Cost: 6185.86 Baht
+
+Station 2:
+  Route (IDs): [3, 42, 17, 31, 43, 40, 45, 39, 41, 35, 30, 3]
+  Time: 232.30 minutes
+  Cost: 5463.89 Baht
+
+Station 3:
+  Route (IDs): [4, 17, 42, 43, 39, 41, 40, 35, 31, 30, 45, 4]
+  Time: 280.20 minutes
+  Cost: 5491.87 Baht
+
+Station 4:
+  Route (IDs): [5, 35, 31, 30, 17, 42, 43, 39, 41, 40, 45, 5]
+  Time: 223.80 minutes
+  Cost: 5072.60 Baht
+
+Station 5:
+  Route (IDs): [6, 41, 45, 35, 31, 30, 17, 42, 43, 39, 40, 6]
+  Time: 199.90 minutes
+  Cost: 4783.05 Baht
+
+Station 6:
+  Route (IDs): [7, 45, 41, 40, 39, 30, 42, 43, 35, 31, 17, 7]
+  Time: 261.80 minutes
+  Cost: 7811.50 Baht
+
+Station 7:
+  Route (IDs): [8, 41, 39, 40, 45, 35, 31, 30, 17, 42, 43, 8]
+  Time: 213.00 minutes
+  Cost: 5183.67 Baht
+
+Station 8:
+  Route (IDs): [9, 41, 39, 40, 45, 35, 31, 17, 42, 43, 30, 9]
+  Time: 246.30 minutes
+  Cost: 6108.68 Baht
+
+Station 9:
+  Route (IDs): [10, 45, 35, 31, 30, 17, 42, 43, 39, 41, 40, 10]
+  Time: 203.70 minutes
+  Cost: 4399.35 Baht
+
+Station 10:
+  Route (IDs): [11, 45, 41, 39, 40, 43, 35, 31, 30, 17, 42, 11]
+  Time: 241.70 minutes
+  Cost: 6363.21 Baht
+
+Station 11:
+  Route (IDs): [12, 43, 39, 41, 40, 45, 35, 42, 17, 31, 30, 12]
+  Time: 216.10 minutes
+  Cost: 5271.30 Baht
+
+--- Optimized Solutions after Multi-Objective 2-Opt ---
+
+Station 0 (Optimized):
+  Route (IDs): [1, 31, 30, 17, 42, 43, 39, 41, 40, 45, 35, 1]
+  Distance: 209.62 km
+  Time: 213.00 minutes
+  Cost: 5159.61 Baht
+  Number of solutions in 2-opt archive: 51
+
+Station 1 (Optimized):
+  Route (IDs): [2, 41, 39, 40, 45, 35, 31, 17, 42, 43, 30, 2]
+  Distance: 237.27 km
+  Time: 237.80 minutes
+  Cost: 6185.86 Baht
+  Number of solutions in 2-opt archive: 51
+
+Station 2 (Optimized):
+  Route (IDs): [3, 31, 17, 42, 43, 40, 45, 39, 41, 35, 30, 3]
+  Distance: 240.22 km
+  Time: 242.50 minutes
+  Cost: 5414.19 Baht
+  Number of solutions in 2-opt archive: 51
+
+Station 3 (Optimized):
+  Route (IDs): [4, 17, 42, 43, 39, 41, 40, 35, 31, 30, 45, 4]
+  Distance: 294.38 km
+  Time: 280.20 minutes
+  Cost: 5491.87 Baht
+  Number of solutions in 2-opt archive: 51
+
+Station 4 (Optimized):
+  Route (IDs): [5, 35, 31, 30, 17, 42, 43, 39, 41, 40, 45, 5]
+  Distance: 218.95 km
+  Time: 223.80 minutes
+  Cost: 5072.60 Baht
+  Number of solutions in 2-opt archive: 51
+
+Station 5 (Optimized):
+  Route (IDs): [6, 41, 45, 35, 31, 30, 17, 42, 43, 39, 40, 6]
+  Distance: 198.26 km
+  Time: 199.90 minutes
+  Cost: 4783.05 Baht
+  Number of solutions in 2-opt archive: 51
+
+Station 6 (Optimized):
+  Route (IDs): [7, 45, 41, 40, 39, 30, 42, 43, 35, 31, 17, 7]
+  Distance: 283.93 km
+  Time: 261.80 minutes
+  Cost: 7811.50 Baht
+  Number of solutions in 2-opt archive: 51
+
+Station 7 (Optimized):
+  Route (IDs): [8, 41, 39, 40, 45, 35, 31, 30, 17, 42, 43, 8]
+  Distance: 207.49 km
+  Time: 213.00 minutes
+  Cost: 5183.67 Baht
+  Number of solutions in 2-opt archive: 51
+
+Station 8 (Optimized):
+  Route (IDs): [9, 41, 39, 40, 45, 35, 31, 17, 42, 43, 30, 9]
+  Distance: 260.17 km
+  Time: 246.30 minutes
+  Cost: 6108.68 Baht
+  Number of solutions in 2-opt archive: 51
+
+Station 9 (Optimized):
+  Route (IDs): [10, 45, 35, 31, 30, 17, 42, 43, 39, 41, 40, 10]
+  Distance: 201.54 km
+  Time: 203.70 minutes
+  Cost: 4399.35 Baht
+  Number of solutions in 2-opt archive: 51
+
+Station 10 (Optimized):
+  Route (IDs): [11, 45, 41, 39, 40, 43, 35, 31, 30, 17, 42, 11]
+  Distance: 243.41 km
+  Time: 241.70 minutes
+  Cost: 6363.21 Baht
+  Number of solutions in 2-opt archive: 51
+
+Station 11 (Optimized):
+  Route (IDs): [12, 43, 39, 41, 40, 45, 35, 42, 17, 31, 30, 12]
+  Distance: 223.03 km
+  Time: 216.10 minutes
+  Cost: 5271.30 Baht
+  Number of solutions in 2-opt archive: 49

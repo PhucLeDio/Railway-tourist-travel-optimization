@@ -1,211 +1,211 @@
-Iteration 1: Best Time in Archive = 916.50, Best Cost in Archive = 23593.17
+Iteration 1: Best Time in Archive = 883.90, Best Cost in Archive = 22821.67
 Archive size: 2
-Iteration 2: Best Time in Archive = 860.10, Best Cost in Archive = 23593.17
+Iteration 2: Best Time in Archive = 828.50, Best Cost in Archive = 21838.21
 Archive size: 4
-Iteration 3: Best Time in Archive = 780.50, Best Cost in Archive = 22304.73
+Iteration 3: Best Time in Archive = 759.50, Best Cost in Archive = 21477.69
 Archive size: 1
-Iteration 4: Best Time in Archive = 704.30, Best Cost in Archive = 21160.94
+Iteration 4: Best Time in Archive = 759.50, Best Cost in Archive = 21423.21
 Archive size: 2
-Iteration 5: Best Time in Archive = 704.30, Best Cost in Archive = 19554.93
-Archive size: 3
-Iteration 6: Best Time in Archive = 701.30, Best Cost in Archive = 18274.20
+Iteration 5: Best Time in Archive = 707.80, Best Cost in Archive = 20939.41
+Archive size: 4
+Iteration 6: Best Time in Archive = 707.80, Best Cost in Archive = 20161.80
+Archive size: 5
+Iteration 7: Best Time in Archive = 707.80, Best Cost in Archive = 17137.23
 Archive size: 2
-Iteration 7: Best Time in Archive = 699.20, Best Cost in Archive = 18257.00
+Iteration 8: Best Time in Archive = 698.70, Best Cost in Archive = 17137.23
 Archive size: 3
-Iteration 8: Best Time in Archive = 699.20, Best Cost in Archive = 18257.00
+Iteration 9: Best Time in Archive = 698.70, Best Cost in Archive = 17137.23
 Archive size: 3
-Iteration 9: Best Time in Archive = 691.00, Best Cost in Archive = 16797.83
+Iteration 10: Best Time in Archive = 680.90, Best Cost in Archive = 17137.23
+Archive size: 3
+Iteration 11: Best Time in Archive = 680.90, Best Cost in Archive = 17054.21
 Archive size: 2
-Iteration 10: Best Time in Archive = 676.60, Best Cost in Archive = 16797.83
+Iteration 12: Best Time in Archive = 636.80, Best Cost in Archive = 17054.21
 Archive size: 3
-Iteration 11: Best Time in Archive = 655.90, Best Cost in Archive = 16797.83
+Iteration 13: Best Time in Archive = 633.90, Best Cost in Archive = 17054.21
+Archive size: 4
+Iteration 14: Best Time in Archive = 633.90, Best Cost in Archive = 16758.44
 Archive size: 3
-Iteration 12: Best Time in Archive = 655.90, Best Cost in Archive = 16797.83
+Iteration 15: Best Time in Archive = 633.90, Best Cost in Archive = 16758.44
 Archive size: 3
-Iteration 13: Best Time in Archive = 655.90, Best Cost in Archive = 16797.83
+Iteration 16: Best Time in Archive = 608.40, Best Cost in Archive = 16758.44
+Archive size: 2
+Iteration 17: Best Time in Archive = 608.40, Best Cost in Archive = 16603.59
+Archive size: 4
+Iteration 18: Best Time in Archive = 608.40, Best Cost in Archive = 16478.55
+Archive size: 2
+Iteration 19: Best Time in Archive = 608.40, Best Cost in Archive = 16433.36
 Archive size: 5
-Iteration 14: Best Time in Archive = 655.90, Best Cost in Archive = 16797.83
-Archive size: 6
-Iteration 15: Best Time in Archive = 655.90, Best Cost in Archive = 16797.83
-Archive size: 7
-Iteration 16: Best Time in Archive = 655.90, Best Cost in Archive = 16797.83
-Archive size: 8
-Iteration 17: Best Time in Archive = 655.90, Best Cost in Archive = 16797.83
-Archive size: 8
-Iteration 18: Best Time in Archive = 655.90, Best Cost in Archive = 16797.83
-Archive size: 8
-Iteration 19: Best Time in Archive = 655.90, Best Cost in Archive = 16797.83
+Iteration 20: Best Time in Archive = 608.40, Best Cost in Archive = 16433.36
 Archive size: 5
-Iteration 20: Best Time in Archive = 655.90, Best Cost in Archive = 16797.83
-Archive size: 6
-Iteration 21: Best Time in Archive = 655.90, Best Cost in Archive = 16797.83
-Archive size: 6
-Iteration 22: Best Time in Archive = 655.90, Best Cost in Archive = 16156.96
+Iteration 21: Best Time in Archive = 608.40, Best Cost in Archive = 16406.87
+Archive size: 3
+Iteration 22: Best Time in Archive = 608.40, Best Cost in Archive = 16406.87
 Archive size: 4
-Iteration 23: Best Time in Archive = 655.90, Best Cost in Archive = 16156.96
+Iteration 23: Best Time in Archive = 602.90, Best Cost in Archive = 16098.18
 Archive size: 4
-Iteration 24: Best Time in Archive = 655.90, Best Cost in Archive = 16156.96
-Archive size: 4
-Iteration 25: Best Time in Archive = 655.90, Best Cost in Archive = 16156.96
-Archive size: 4
-Iteration 26: Best Time in Archive = 653.40, Best Cost in Archive = 16156.96
-Archive size: 4
-Iteration 27: Best Time in Archive = 653.40, Best Cost in Archive = 16156.96
-Archive size: 4
-Iteration 28: Best Time in Archive = 653.40, Best Cost in Archive = 16156.96
+Iteration 24: Best Time in Archive = 602.90, Best Cost in Archive = 16098.18
 Archive size: 5
-Iteration 29: Best Time in Archive = 645.80, Best Cost in Archive = 16156.96
-Archive size: 6
-Iteration 30: Best Time in Archive = 645.80, Best Cost in Archive = 16156.96
-Archive size: 6
-Iteration 31: Best Time in Archive = 645.80, Best Cost in Archive = 16156.96
-Archive size: 7
-Iteration 32: Best Time in Archive = 635.80, Best Cost in Archive = 16156.96
-Archive size: 6
-Iteration 33: Best Time in Archive = 635.80, Best Cost in Archive = 16156.96
-Archive size: 7
-Iteration 34: Best Time in Archive = 633.60, Best Cost in Archive = 16156.96
-Archive size: 6
-Iteration 35: Best Time in Archive = 633.60, Best Cost in Archive = 16156.96
-Archive size: 6
-Iteration 36: Best Time in Archive = 633.60, Best Cost in Archive = 15933.42
-Archive size: 6
-Iteration 37: Best Time in Archive = 633.60, Best Cost in Archive = 15933.42
-Archive size: 7
-Iteration 38: Best Time in Archive = 623.70, Best Cost in Archive = 15933.42
-Archive size: 8
-Iteration 39: Best Time in Archive = 623.70, Best Cost in Archive = 15933.42
-Archive size: 7
-Iteration 40: Best Time in Archive = 623.70, Best Cost in Archive = 15933.42
-Archive size: 10
-Iteration 41: Best Time in Archive = 623.70, Best Cost in Archive = 15933.42
-Archive size: 10
-Iteration 42: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
-Archive size: 8
-Iteration 43: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
-Archive size: 8
-Iteration 44: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
-Archive size: 7
-Iteration 45: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
-Archive size: 7
-Iteration 46: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
-Archive size: 7
-Iteration 47: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
-Archive size: 6
-Iteration 48: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
+Iteration 25: Best Time in Archive = 602.90, Best Cost in Archive = 16098.18
 Archive size: 4
-Iteration 49: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
-Archive size: 5
-Iteration 50: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
-Archive size: 5
-Iteration 51: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
-Archive size: 5
-Iteration 52: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
+Iteration 26: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
+Archive size: 3
+Iteration 27: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
+Archive size: 4
+Iteration 28: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
+Archive size: 4
+Iteration 29: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
 Archive size: 6
-Iteration 53: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
-Archive size: 7
-Iteration 54: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
-Archive size: 8
-Iteration 55: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
+Iteration 30: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
 Archive size: 9
-Iteration 56: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
-Archive size: 9
-Iteration 57: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
-Archive size: 5
-Iteration 58: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
-Archive size: 5
-Iteration 59: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
-Archive size: 5
-Iteration 60: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
-Archive size: 5
-Iteration 61: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
-Archive size: 5
-Iteration 62: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
-Archive size: 5
-Iteration 63: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
-Archive size: 5
-Iteration 64: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
-Archive size: 7
-Iteration 65: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
-Archive size: 9
-Iteration 66: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
-Archive size: 10
-Iteration 67: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
-Archive size: 7
-Iteration 68: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
-Archive size: 8
-Iteration 69: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
-Archive size: 8
-Iteration 70: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
-Archive size: 8
-Iteration 71: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
-Archive size: 8
-Iteration 72: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
-Archive size: 9
-Iteration 73: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
-Archive size: 10
-Iteration 74: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
+Iteration 31: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
 Archive size: 11
-Iteration 75: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
-Archive size: 11
-Iteration 76: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
-Archive size: 11
-Iteration 77: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
-Archive size: 12
-Iteration 78: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
-Archive size: 12
-Iteration 79: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
-Archive size: 14
-Iteration 80: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
-Archive size: 14
-Iteration 81: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
-Archive size: 14
-Iteration 82: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
+Iteration 32: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
 Archive size: 15
-Iteration 83: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
-Archive size: 15
-Iteration 84: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
+Iteration 33: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
 Archive size: 17
-Iteration 85: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
+Iteration 34: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
 Archive size: 18
-Iteration 86: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
-Archive size: 18
-Iteration 87: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
-Archive size: 18
-Iteration 88: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
-Archive size: 19
-Iteration 89: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
-Archive size: 22
-Iteration 90: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
-Archive size: 22
-Iteration 91: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
+Iteration 35: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
+Archive size: 20
+Iteration 36: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
+Archive size: 23
+Iteration 37: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
 Archive size: 24
-Iteration 92: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
-Archive size: 24
-Iteration 93: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
+Iteration 38: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
 Archive size: 25
-Iteration 94: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
-Archive size: 25
-Iteration 95: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
-Archive size: 26
-Iteration 96: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
-Archive size: 26
-Iteration 97: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
+Iteration 39: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
 Archive size: 27
-Iteration 98: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
-Archive size: 30
-Iteration 99: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
-Archive size: 30
-Iteration 100: Best Time in Archive = 623.70, Best Cost in Archive = 15425.72
+Iteration 40: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
+Archive size: 28
+Iteration 41: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
+Archive size: 31
+Iteration 42: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
 Archive size: 32
+Iteration 43: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
+Archive size: 34
+Iteration 44: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
+Archive size: 35
+Iteration 45: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
+Archive size: 36
+Iteration 46: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
+Archive size: 36
+Iteration 47: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
+Archive size: 38
+Iteration 48: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
+Archive size: 40
+Iteration 49: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
+Archive size: 41
+Iteration 50: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
+Archive size: 41
+Iteration 51: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
+Archive size: 42
+Iteration 52: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
+Archive size: 44
+Iteration 53: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
+Archive size: 45
+Iteration 54: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
+Archive size: 46
+Iteration 55: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
+Archive size: 48
+Iteration 56: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
+Archive size: 49
+Iteration 57: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
+Archive size: 36
+Iteration 58: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
+Archive size: 39
+Iteration 59: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
+Archive size: 41
+Iteration 60: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
+Archive size: 45
+Iteration 61: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
+Archive size: 47
+Iteration 62: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
+Archive size: 48
+Iteration 63: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
+Archive size: 50
+Iteration 64: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
+Archive size: 52
+Iteration 65: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
+Archive size: 52
+Iteration 66: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
+Archive size: 52
+Iteration 67: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
+Archive size: 53
+Iteration 68: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
+Archive size: 56
+Iteration 69: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
+Archive size: 59
+Iteration 70: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
+Archive size: 62
+Iteration 71: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
+Archive size: 65
+Iteration 72: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
+Archive size: 67
+Iteration 73: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
+Archive size: 73
+Iteration 74: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
+Archive size: 75
+Iteration 75: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
+Archive size: 77
+Iteration 76: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
+Archive size: 79
+Iteration 77: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
+Archive size: 83
+Iteration 78: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
+Archive size: 87
+Iteration 79: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
+Archive size: 89
+Iteration 80: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
+Archive size: 91
+Iteration 81: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
+Archive size: 95
+Iteration 82: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
+Archive size: 97
+Iteration 83: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
+Archive size: 98
+Iteration 84: Best Time in Archive = 597.10, Best Cost in Archive = 16098.18
+Archive size: 100
+Iteration 85: Best Time in Archive = 606.70, Best Cost in Archive = 16098.18
+Archive size: 100
+Iteration 86: Best Time in Archive = 606.70, Best Cost in Archive = 16098.18
+Archive size: 100
+Iteration 87: Best Time in Archive = 606.70, Best Cost in Archive = 16098.18
+Archive size: 100
+Iteration 88: Best Time in Archive = 606.70, Best Cost in Archive = 16098.18
+Archive size: 100
+Iteration 89: Best Time in Archive = 606.70, Best Cost in Archive = 16098.18
+Archive size: 100
+Iteration 90: Best Time in Archive = 606.70, Best Cost in Archive = 16098.18
+Archive size: 100
+Iteration 91: Best Time in Archive = 606.70, Best Cost in Archive = 16098.18
+Archive size: 100
+Iteration 92: Best Time in Archive = 606.70, Best Cost in Archive = 16098.18
+Archive size: 100
+Iteration 93: Best Time in Archive = 606.70, Best Cost in Archive = 16098.18
+Archive size: 100
+Iteration 94: Best Time in Archive = 606.70, Best Cost in Archive = 16098.18
+Archive size: 100
+Iteration 95: Best Time in Archive = 606.70, Best Cost in Archive = 16098.18
+Archive size: 100
+Iteration 96: Best Time in Archive = 606.70, Best Cost in Archive = 16098.18
+Archive size: 100
+Iteration 97: Best Time in Archive = 606.70, Best Cost in Archive = 16098.18
+Archive size: 100
+Iteration 98: Best Time in Archive = 606.70, Best Cost in Archive = 16098.18
+Archive size: 100
+Iteration 99: Best Time in Archive = 606.70, Best Cost in Archive = 16098.18
+Archive size: 100
+Iteration 100: Best Time in Archive = 606.70, Best Cost in Archive = 16098.18
+Archive size: 100
 
 --- Kết quả ACO ---
-Best route (IDs): [3, 12, 4, 41, 40, 44, 6, 7, 9, 20, 11, 10, 45, 39, 24, 2, 26, 34, 32, 22, 38, 19, 43, 8, 5, 31, 36, 28, 15, 13, 37, 14, 30, 16, 18, 17, 1, 42, 23, 29, 35, 25, 33, 27, 21, 3]
-Best time: 681.90 minutes
-Best cost: 15425.72 Baht
+Best route (IDs): [4, 2, 24, 39, 41, 40, 44, 10, 45, 11, 9, 20, 7, 6, 3, 12, 15, 30, 14, 19, 31, 17, 1, 28, 29, 35, 18, 36, 16, 13, 37, 42, 23, 26, 34, 38, 27, 25, 33, 5, 32, 22, 21, 43, 8, 4]
+Best time: 606.70 minutes
+Best cost: 16098.18 Baht
 
 --- Kết quả sau tinh chỉnh 2-Opt ---
-📍 Optimized Route (IDs): [3, 45, 39, 40, 31, 43, 37, 42, 17, 41, 35, 30, 3]
-📏 Distance: 358.03 km
-⏱ Time: 318.00 minutes
-💰 Cost: 6425.35 Baht
+📍 Optimized Route (IDs): [4, 45, 39, 40, 17, 42, 43, 30, 41, 35, 37, 31, 4]
+📏 Distance: 362.85 km
+⏱ Time: 332.60 minutes
+💰 Cost: 7870.57 Baht

@@ -1,0 +1,196 @@
+
+Chạy NSGA-II cho ga tàu 0...
+
+Chạy NSGA-II cho ga tàu 1...
+
+Chạy NSGA-II cho ga tàu 2...
+
+Chạy NSGA-II cho ga tàu 3...
+
+Chạy NSGA-II cho ga tàu 4...
+
+Chạy NSGA-II cho ga tàu 5...
+
+Chạy NSGA-II cho ga tàu 6...
+
+Chạy NSGA-II cho ga tàu 7...
+
+Chạy NSGA-II cho ga tàu 8...
+
+Chạy NSGA-II cho ga tàu 9...
+
+Chạy NSGA-II cho ga tàu 10...
+
+Chạy NSGA-II cho ga tàu 11...
+
+--- Kết quả NSGA-II ---
+
+Ga tàu 0:
+Số lượng giải pháp trên mặt Pareto: 12
+Một số giải pháp trên mặt Pareto (Thời gian, Chi phí):
+Giải pháp 1: Thời gian=187.20 phút, Chi phí=7015.91 Baht
+Giải pháp 2: Thời gian=183.30 phút, Chi phí=7757.47 Baht
+Giải pháp 3: Thời gian=182.80 phút, Chi phí=7838.18 Baht
+Giải pháp 4: Thời gian=192.10 phút, Chi phí=5510.05 Baht
+Giải pháp 5: Thời gian=191.80 phút, Chi phí=6554.70 Baht
+
+Ga tàu 1:
+Số lượng giải pháp trên mặt Pareto: 17
+Một số giải pháp trên mặt Pareto (Thời gian, Chi phí):
+Giải pháp 1: Thời gian=193.20 phút, Chi phí=7579.81 Baht
+Giải pháp 2: Thời gian=212.90 phút, Chi phí=5638.91 Baht
+Giải pháp 3: Thời gian=198.00 phút, Chi phí=6830.63 Baht
+Giải pháp 4: Thời gian=197.70 phút, Chi phí=7023.13 Baht
+Giải pháp 5: Thời gian=201.30 phút, Chi phí=6075.84 Baht
+
+Ga tàu 2:
+Số lượng giải pháp trên mặt Pareto: 13
+Một số giải pháp trên mặt Pareto (Thời gian, Chi phí):
+Giải pháp 1: Thời gian=213.80 phút, Chi phí=5679.33 Baht
+Giải pháp 2: Thời gian=198.70 phút, Chi phí=6511.46 Baht
+Giải pháp 3: Thời gian=214.70 phút, Chi phí=5281.68 Baht
+Giải pháp 4: Thời gian=218.70 phút, Chi phí=5001.16 Baht
+Giải pháp 5: Thời gian=207.70 phút, Chi phí=5918.00 Baht
+
+Ga tàu 3:
+Số lượng giải pháp trên mặt Pareto: 16
+Một số giải pháp trên mặt Pareto (Thời gian, Chi phí):
+Giải pháp 1: Thời gian=218.00 phút, Chi phí=5301.82 Baht
+Giải pháp 2: Thời gian=188.10 phút, Chi phí=7145.27 Baht
+Giải pháp 3: Thời gian=210.90 phút, Chi phí=5518.60 Baht
+Giải pháp 4: Thời gian=190.50 phút, Chi phí=6008.66 Baht
+Giải pháp 5: Thời gian=187.80 phút, Chi phí=7427.61 Baht
+
+Ga tàu 4:
+Số lượng giải pháp trên mặt Pareto: 11
+Một số giải pháp trên mặt Pareto (Thời gian, Chi phí):
+Giải pháp 1: Thời gian=207.70 phút, Chi phí=7206.65 Baht
+Giải pháp 2: Thời gian=208.30 phút, Chi phí=5755.71 Baht
+Giải pháp 3: Thời gian=207.80 phút, Chi phí=6331.80 Baht
+Giải pháp 4: Thời gian=220.00 phút, Chi phí=5302.16 Baht
+Giải pháp 5: Thời gian=207.60 phút, Chi phí=7681.74 Baht
+
+Ga tàu 5:
+Số lượng giải pháp trên mặt Pareto: 8
+Một số giải pháp trên mặt Pareto (Thời gian, Chi phí):
+Giải pháp 1: Thời gian=188.10 phút, Chi phí=5568.48 Baht
+Giải pháp 2: Thời gian=188.30 phút, Chi phí=5219.98 Baht
+Giải pháp 3: Thời gian=199.90 phút, Chi phí=4783.05 Baht
+Giải pháp 4: Thời gian=183.70 phút, Chi phí=6668.11 Baht
+Giải pháp 5: Thời gian=199.70 phút, Chi phí=5131.55 Baht
+
+Ga tàu 6:
+Số lượng giải pháp trên mặt Pareto: 15
+Một số giải pháp trên mặt Pareto (Thời gian, Chi phí):
+Giải pháp 1: Thời gian=216.20 phút, Chi phí=9513.43 Baht
+Giải pháp 2: Thời gian=226.80 phút, Chi phí=6270.07 Baht
+Giải pháp 3: Thời gian=217.80 phút, Chi phí=8512.74 Baht
+Giải pháp 4: Thời gian=231.30 phút, Chi phí=6075.11 Baht
+Giải pháp 5: Thời gian=242.40 phút, Chi phí=5760.36 Baht
+
+Ga tàu 7:
+Số lượng giải pháp trên mặt Pareto: 16
+Một số giải pháp trên mặt Pareto (Thời gian, Chi phí):
+Giải pháp 1: Thời gian=217.60 phút, Chi phí=5113.84 Baht
+Giải pháp 2: Thời gian=205.50 phút, Chi phí=5468.69 Baht
+Giải pháp 3: Thời gian=187.30 phút, Chi phí=6898.98 Baht
+Giải pháp 4: Thời gian=186.40 phút, Chi phí=8645.81 Baht
+Giải pháp 5: Thời gian=190.80 phút, Chi phí=6657.56 Baht
+
+Ga tàu 8:
+Số lượng giải pháp trên mặt Pareto: 14
+Một số giải pháp trên mặt Pareto (Thời gian, Chi phí):
+Giải pháp 1: Thời gian=201.40 phút, Chi phí=7464.79 Baht
+Giải pháp 2: Thời gian=201.40 phút, Chi phí=7949.61 Baht
+Giải pháp 3: Thời gian=197.60 phút, Chi phí=8004.07 Baht
+Giải pháp 4: Thời gian=202.10 phút, Chi phí=7317.26 Baht
+Giải pháp 5: Thời gian=197.00 phút, Chi phí=8287.06 Baht
+
+Ga tàu 9:
+Số lượng giải pháp trên mặt Pareto: 10
+Một số giải pháp trên mặt Pareto (Thời gian, Chi phí):
+Giải pháp 1: Thời gian=186.50 phút, Chi phí=6976.80 Baht
+Giải pháp 2: Thời gian=203.70 phút, Chi phí=4399.35 Baht
+Giải pháp 3: Thời gian=184.90 phút, Chi phí=7013.44 Baht
+Giải pháp 4: Thời gian=188.10 phút, Chi phí=5116.80 Baht
+Giải pháp 5: Thời gian=199.70 phút, Chi phí=4679.87 Baht
+
+Ga tàu 10:
+Số lượng giải pháp trên mặt Pareto: 15
+Một số giải pháp trên mặt Pareto (Thời gian, Chi phí):
+Giải pháp 1: Thời gian=224.70 phút, Chi phí=7171.31 Baht
+Giải pháp 2: Thời gian=223.70 phút, Chi phí=7309.84 Baht
+Giải pháp 3: Thời gian=223.10 phút, Chi phí=7592.83 Baht
+Giải pháp 4: Thời gian=220.50 phút, Chi phí=8673.51 Baht
+Giải pháp 5: Thời gian=222.50 phút, Chi phí=8382.97 Baht
+
+Ga tàu 11:
+Số lượng giải pháp trên mặt Pareto: 14
+Một số giải pháp trên mặt Pareto (Thời gian, Chi phí):
+Giải pháp 1: Thời gian=188.90 phút, Chi phí=6713.19 Baht
+Giải pháp 2: Thời gian=183.00 phút, Chi phí=7662.22 Baht
+Giải pháp 3: Thời gian=204.00 phút, Chi phí=5626.15 Baht
+Giải pháp 4: Thời gian=197.90 phút, Chi phí=6031.20 Baht
+Giải pháp 5: Thời gian=191.00 phút, Chi phí=6588.66 Baht
+
+--- Giải pháp tốt nhất cho mỗi ga tàu (dựa trên tổng thời gian + chi phí) ---
+
+Ga tàu 0:
+  Tuyến đường (IDs): [1, 42, 43, 39, 41, 40, 45, 35, 31, 30, 17, 1]
+  Thời gian: 205.30 phút
+  Chi phí: 4740.46 Baht
+
+Ga tàu 1:
+  Tuyến đường (IDs): [2, 35, 31, 30, 17, 42, 43, 39, 41, 40, 45, 2]
+  Thời gian: 216.60 phút
+  Chi phí: 5544.11 Baht
+
+Ga tàu 2:
+  Tuyến đường (IDs): [3, 42, 43, 39, 41, 40, 45, 35, 31, 17, 30, 3]
+  Thời gian: 218.70 phút
+  Chi phí: 5001.16 Baht
+
+Ga tàu 3:
+  Tuyến đường (IDs): [4, 41, 45, 35, 31, 30, 17, 42, 43, 39, 40, 4]
+  Thời gian: 219.70 phút
+  Chi phí: 4971.99 Baht
+
+Ga tàu 4:
+  Tuyến đường (IDs): [5, 35, 31, 30, 17, 42, 43, 39, 41, 40, 45, 5]
+  Thời gian: 223.80 phút
+  Chi phí: 5072.60 Baht
+
+Ga tàu 5:
+  Tuyến đường (IDs): [6, 41, 45, 35, 31, 30, 17, 42, 43, 39, 40, 6]
+  Thời gian: 199.90 phút
+  Chi phí: 4783.05 Baht
+
+Ga tàu 6:
+  Tuyến đường (IDs): [7, 45, 35, 30, 42, 17, 31, 43, 39, 41, 40, 7]
+  Thời gian: 248.40 phút
+  Chi phí: 5616.59 Baht
+
+Ga tàu 7:
+  Tuyến đường (IDs): [8, 43, 39, 41, 40, 45, 35, 42, 17, 31, 30, 8]
+  Thời gian: 217.60 phút
+  Chi phí: 5113.84 Baht
+
+Ga tàu 8:
+  Tuyến đường (IDs): [9, 45, 35, 31, 30, 17, 42, 43, 39, 41, 40, 9]
+  Thời gian: 219.30 phút
+  Chi phí: 5884.94 Baht
+
+Ga tàu 9:
+  Tuyến đường (IDs): [10, 45, 35, 31, 30, 17, 42, 43, 39, 41, 40, 10]
+  Thời gian: 203.70 phút
+  Chi phí: 4399.35 Baht
+
+Ga tàu 10:
+  Tuyến đường (IDs): [11, 45, 35, 31, 30, 17, 42, 43, 39, 41, 40, 11]
+  Thời gian: 250.00 phút
+  Chi phí: 5730.60 Baht
+
+Ga tàu 11:
+  Tuyến đường (IDs): [12, 43, 39, 41, 40, 45, 35, 42, 17, 31, 30, 12]
+  Thời gian: 216.10 phút
+  Chi phí: 5271.30 Baht
